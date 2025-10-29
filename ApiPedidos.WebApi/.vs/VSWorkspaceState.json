@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiPedidos.Application",
+    "\\ApiPedidos.Application\\Services",
+    "\\ApiPedidos.Domain",
+    "\\ApiPedidos.Domain\\Entities",
+    "\\ApiPedidos.Domain\\Entities\\Produto"
+  ],
+  "SelectedNode": "\\ApiPedidos.Application\\Services\\ProdutoService.cs",
+  "PreviewInSolutionExplorer": false
+}

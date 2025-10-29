@@ -1,0 +1,15 @@
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\bin\Debug\net8.0\ApiPedidos.Application.deps.json
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\bin\Debug\net8.0\ApiPedidos.Application.dll
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\bin\Debug\net8.0\ApiPedidos.Application.pdb
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\bin\Debug\net8.0\ApiPedidos.Domain.dll
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\bin\Debug\net8.0\ApiPedidos.Domain.pdb
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\obj\Debug\net8.0\ApiPedidos.Application.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\obj\Debug\net8.0\ApiPedidos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\obj\Debug\net8.0\ApiPedidos.Application.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\obj\Debug\net8.0\ApiPedidos.Application.AssemblyInfo.cs
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\obj\Debug\net8.0\ApiPedidos.Application.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\obj\Debug\net8.0\ApiPedid.58F48C8E.Up2Date
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\obj\Debug\net8.0\ApiPedidos.Application.dll
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\obj\Debug\net8.0\refint\ApiPedidos.Application.dll
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\obj\Debug\net8.0\ApiPedidos.Application.pdb
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Application\obj\Debug\net8.0\ref\ApiPedidos.Application.dll

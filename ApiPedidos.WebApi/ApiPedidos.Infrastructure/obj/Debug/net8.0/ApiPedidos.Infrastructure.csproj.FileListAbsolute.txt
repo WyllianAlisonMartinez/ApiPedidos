@@ -1,0 +1,17 @@
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\bin\Debug\net8.0\ApiPedidos.Infrastructure.deps.json
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\bin\Debug\net8.0\ApiPedidos.Infrastructure.dll
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\bin\Debug\net8.0\ApiPedidos.Infrastructure.pdb
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\bin\Debug\net8.0\ApiPedidos.Application.dll
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\bin\Debug\net8.0\ApiPedidos.Domain.dll
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\bin\Debug\net8.0\ApiPedidos.Application.pdb
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\bin\Debug\net8.0\ApiPedidos.Domain.pdb
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\obj\Debug\net8.0\ApiPedidos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\obj\Debug\net8.0\ApiPedidos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\obj\Debug\net8.0\ApiPedidos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\obj\Debug\net8.0\ApiPedidos.Infrastructure.AssemblyInfo.cs
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\obj\Debug\net8.0\ApiPedidos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\obj\Debug\net8.0\ApiPedid.D98A6FBC.Up2Date
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\obj\Debug\net8.0\ApiPedidos.Infrastructure.dll
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\obj\Debug\net8.0\refint\ApiPedidos.Infrastructure.dll
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\obj\Debug\net8.0\ApiPedidos.Infrastructure.pdb
+C:\Users\marti\source\repos\PedidosAPI\ApiPedidos.WebApi\ApiPedidos.Infrastructure\obj\Debug\net8.0\ref\ApiPedidos.Infrastructure.dll
